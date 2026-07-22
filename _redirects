@@ -4,10 +4,19 @@
 # 注意：路径和URL之间用空格或Tab分隔
 # ==========================================
 
-/github      https://github.com/mouhuan-creator         302
-/gh    https://github.com/mouhuan-creator        302
-/telegram    https://t.me/cold_cute            302
-/tg     https://t.me/cold_cute         302
+/cf          https://dash.cloudflare.com                                       302
+/gh          https://github.com/mouhuan-creator                                302
+/mi          https://www.34567888.xyz                                          302
+/domain      https://www.34567888.xyz                                          302
+/domains     https://www.34567888.xyz                                          302
+/blog        https://www.mouhuan.com                                           302
+/telegram    https://t.me/cold_cute                                            302
+/tg          https://t.me/cold_cute                                            302
+/pb          https://porkbun.com                                               302
+/dy          https://www.dynadot.com/zh/                                       302
+/ss          https://www.spaceship.com/zh/                                     302
+/pm          https://purelymail.com                                            302
+/qc          https://www.dynadot.com/zh/market/expired-closeout                302
 
 # ==========================================
 # 根目录不在这里处理，由 index.html 负责
