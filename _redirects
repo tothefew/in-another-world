@@ -15,9 +15,7 @@
 /pb          https://porkbun.com                                               302
 /dy          https://www.dynadot.com/zh/                                       302
 /ss          https://www.spaceship.com/zh/                                     302
-/pm          https://purelymail.com                                            302
 /qc          https://www.dynadot.com/zh/market/expired-closeout                302
-/v           https://u.wechat.com/MOw87J-2UCqr_PmheyrBkXo                      302
 
 # ==========================================
 # 根目录不在这里处理，由 index.html 负责
