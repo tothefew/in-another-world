@@ -1,26 +1,24 @@
 # ==========================================
-# 短链重定向规则
-# 格式：路径  目标URL  状态码
-# 注意：路径和URL之间用空格或Tab分隔
+# 简易短链
 # ==========================================
 
 /cf          https://dash.cloudflare.com                                       302
-/gh          https://github.com/mouhuan-creator                                302
 /mi          https://www.34567888.xyz                                          302
 /domain      https://www.34567888.xyz                                          302
 /domains     https://www.34567888.xyz                                          302
-/blog        https://www.mouhuan.com                                           302
-/telegram    https://t.me/cold_cute                                            302
+/legs        https://legs.beauty                                               302
+/i           https://mouhuan.com                                               302                    
 /tg          https://t.me/cold_cute                                            302
 /pb          https://porkbun.com                                               302
 /dy          https://www.dynadot.com/zh/                                       302
 /ss          https://www.spaceship.com/zh/                                     302
 /qc          https://www.dynadot.com/zh/market/expired-closeout                302
+/vx          https://u.wechat.com/MDy7xuwHQxnvw9BC2Xffoqg                      302
 
 # ==========================================
-# 根目录不在这里处理，由 index.html 负责
+# 根目录由 index.html 负责
 # 404 由 404.html 负责
 # ==========================================
 
-# 以后新增短链，直接在新行写：
+# 格式：
 # /短链名    目标URL    302
